@@ -1,0 +1,13 @@
+#bottle{
+  background-image: url(https://ae01.alicdn.com/kf/HTB1pbjBNVXXXXbHXXXXq6xXFXXXo/Modern-design-Red-Wine-Holder-silver-Metal-Table-Stand-wine-bottle-rack-For-Home-bars-hotel.jpg);
+  height: inherit;
+  width: 100%;
+  background-size: cover;
+}
+.row{
+  margin: 0px;
+}
+img{
+  width: 100%;
+  height:100%;
+}
